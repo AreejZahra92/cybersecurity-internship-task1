@@ -1,2 +1,2 @@
-# cybersecurity-internship-task1
-Password Strength Checker - DecodeLabs Internship Project 1
+# Cybersecurity-Project-1
+Password Strength Checker
